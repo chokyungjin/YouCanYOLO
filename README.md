@@ -244,6 +244,8 @@ Please [**file**](https://github.com/chokyungjin/YouCanYOLO/issues) issues to se
 ## 📕 Reference
 
 https://github.com/qqwweee/keras-yolo3
+
 https://github.com/Ma-Dan/keras-yolo4
+
 https://github.com/hollance/YOLO-CoreML-MPSNNGraph
 
